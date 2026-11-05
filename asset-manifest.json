@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Carnival-Scroll-3D/static/css/main.e6c13ad2.css",
+    "main.js": "/Carnival-Scroll-3D/static/js/main.963e3af9.js",
+    "static/js/453.844d6409.chunk.js": "/Carnival-Scroll-3D/static/js/453.844d6409.chunk.js",
+    "index.html": "/Carnival-Scroll-3D/index.html",
+    "main.e6c13ad2.css.map": "/Carnival-Scroll-3D/static/css/main.e6c13ad2.css.map",
+    "main.963e3af9.js.map": "/Carnival-Scroll-3D/static/js/main.963e3af9.js.map",
+    "453.844d6409.chunk.js.map": "/Carnival-Scroll-3D/static/js/453.844d6409.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.963e3af9.js"
+  ]
+}
